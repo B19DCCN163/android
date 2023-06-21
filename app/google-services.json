@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "500868329602",
+    "project_id": "appdulich-d70dd",
+    "storage_bucket": "appdulich-d70dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500868329602:android:94ad14314d164fbe21449b",
+        "android_client_info": {
+          "package_name": "com.example.appdulich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500868329602-a75bkgc0gfl908rg2h3n08pgrktljouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidtV2JtMSzGg4VtlGCAuuSt1yHMbcEys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500868329602-a75bkgc0gfl908rg2h3n08pgrktljouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500868329602:android:71d7b27b17b8d38621449b",
+        "android_client_info": {
+          "package_name": "com.hfad.th2android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500868329602-a75bkgc0gfl908rg2h3n08pgrktljouv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCidtV2JtMSzGg4VtlGCAuuSt1yHMbcEys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500868329602-a75bkgc0gfl908rg2h3n08pgrktljouv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tiệm Sách</string>
+    <string-array name="publisher">
+        <item>Tài Liệu</item>
+        <item>Truyện Tranh</item>
+        <item>Sách Giáo Khoa</item>
+    </string-array>
+</resources>
